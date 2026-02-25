@@ -1,11 +1,11 @@
 ## Hi. I'm Success.📊
 
   
-Data Analyst | Passionate about SQL, Analytics and Business-driven problem solving.
+Data Analyst | I analyze raw data into clear insights using SQL and analytics to drive smarter decision-making.
 
-  
+
 ### 🔍 Analytical Focus
-I enjoy turning raw data into meaningful insights and building practical solutions that drive positive decisions.
+I extract, transform, and analyze structured data using SQL and analytical thinking to uncover actionable insights.
 
   
 ### 🧰 Toolkit
@@ -14,7 +14,7 @@ I enjoy turning raw data into meaningful insights and building practical solutio
 | **Languages** | SQL |
 | **Data Tools** | Excel, Google Sheets |
 | **Databases** | PostgreSQL |
-| **Other** | Git, Google Colab |
+| **Other** | Git |
 
 
   
